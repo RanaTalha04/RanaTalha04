@@ -15,5 +15,5 @@
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&theme=dark)
 
 ## 🌍 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammadtaalhaa/))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/muhammadtaalhaa/)])  
 - 📧 Email: muhammadtalhashahid2005@gmail.com
