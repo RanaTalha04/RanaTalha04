@@ -25,9 +25,6 @@ I define myself as curious, creative, and driven to create innovative solutions.
 <a href="https://github.com/RanaTalha04/RanaTalha04">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&line_height=27&count_private=true&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff&hide=contribs" alt="Abdulla's GitHub Stats" />
 </a>
-<a href="https://github.com/RanaTalha04/RanaTalha04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff" />
-</a>
 
 <br/>
 <br/>
