@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Talha 👋  
 
-<!--
-**RanaTalha04/RanaTalha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Computer Science student at UET Lahore  
+📊 Passionate about Data Science & AI  
+💻 Skilled in Python, SQL, Data Visualization, and Data Analysis  
+🌱 Currently learning Machine Learning 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL & Databases  
+- Excel for Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&theme=dark)
+
+## 🌍 Connect With Me
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammadtaalhaa/))  
+- 📧 Email: muhammadtalhashahid2005@gmail.com
