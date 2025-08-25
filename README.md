@@ -14,7 +14,7 @@ I define myself as curious, creative, and driven to create innovative solutions.
 <h2> 🔧 Technologies I enjoy working with</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=47A248)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 <br>
