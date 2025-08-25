@@ -14,12 +14,10 @@ I define myself as curious, creative, and driven to create innovative solutions.
 <h2> 🔧 Technologies I enjoy working with</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=MySQL&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=47A248)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 <br>
-<h2>🏆 Github Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=RanaTalha04&theme=flat&no-frame=true&margin-w=30"/>
 
 <h2>📈 GitHub Stats</h2>
 <a href="https://github.com/RanaTalha04/RanaTalha04">
