@@ -1,8 +1,7 @@
 <h1 align="center">
   <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br>
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="27" />
  Hi there, I'm Talha 
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
 <p>Welcome to my page! </br>
