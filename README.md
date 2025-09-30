@@ -32,10 +32,7 @@ alt="Talha's GitHub Stats" />
 
 <br/>
 <br/>
-<h2> 👨🏽‍💻Talking about Personal Stuffs:</h2>
-
 <p style="font-size:16px">
-🏋️‍♀️ I love exercising<br>
 💬 Ask me about anything via <a href="mailto:muhammadtalhashahid2005@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/muhammadtaalhaa/" target="_blank">Linked-In.</a><br>
 
 </p>
