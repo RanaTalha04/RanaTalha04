@@ -33,18 +33,13 @@ alt="Talha's GitHub Stats" />
 <br/>
 <br/>
 <p style="font-size:16px">
-💬 Ask me about anything via <a href="mailto:muhammadtalhashahid2005@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/muhammadtaalhaa/" target="_blank">Linked-In.</a><br>
+💬 Connect with me via <a href="mailto:muhammadtalhashahid2005@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/muhammadtaalhaa/" target="_blank">Linked-In.</a><br>
 
 </p>
 
 <br>
 <br>
 <hr>
-<p align="center">
-  <a href="https://github.com/RanaTalha04/RanaTalha04">
-  <img align="center" src="https://img.shields.io/badge/CREATED%20BY-TALHA-lightgrey?style=for-the-badge" />
-</a>
-
 </p>
 <br>
 
