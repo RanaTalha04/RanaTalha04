@@ -36,10 +36,3 @@ alt="Talha's GitHub Stats" />
 💬 Connect with me via <a href="mailto:muhammadtalhashahid2005@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/muhammadtaalhaa/" target="_blank">Linked-In.</a><br>
 
 </p>
-
-<br>
-<br>
-<hr>
-</p>
-<br>
-
