@@ -5,7 +5,7 @@
 </h1>
 
 <p>Welcome to my page! </br>
-Computer Science student at UET Lahore, Passionate about Data Science & AI, Skilled in Python, SQL, Data Visualization, and Data Analysis, Currently learning Machine Learning 💻 
+Computer Science student at UET Lahore, Passionate about Data Science & AI, Skilled in Python, SQL, Data Visualization, and Data Analysis, Currently learning Machine Learning.
 <br><br>
 I define myself as curious, creative, and driven to create innovative solutions. 🚀
 <br>
