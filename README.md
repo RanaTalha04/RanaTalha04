@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br>
   <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="30" />
-  Hi there, I'm <b>Talha 👋</b>
+  Hi there, I'm <b>Talha </b>
 </h1>
 
 <p align="center">
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />
   <img src="https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243" />
   <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=Plotly&logoColor=3f4f75" />
+  <img src="https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=E97627" />
 </p>
 
 ---
@@ -62,7 +63,3 @@
 </p>
 
 ---
-
-<p align="center" style="font-size:16px">
-💬 Let's connect on <a href="mailto:muhammadtalhashahid2005@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/muhammadtaalhaa/" target="_blank">LinkedIn</a>.<br>
-</p>
