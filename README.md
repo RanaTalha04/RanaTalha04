@@ -5,13 +5,13 @@
 </h1>
 
 <p>Welcome to my page! </br>
-Computer Science student at UET Lahore, Passionate about Data Science & AI, Skilled in Python, SQL, Data Visualization, and Data Analysis, Currently learning Machine Learning.
+Final year Computer Science student at UET Lahore, Passionate about Data Science & AI, Skilled in Python, SQL, Data Visualization, Data Analysis, and Machine Learning.
 <br><br>
-I define myself as curious, creative, and driven to create innovative solutions. 🚀
+I define myself as curious, creative, and driven to create innovative solutions. 
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_talha_o1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadtaalhaa/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_talha_o1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadtaalhaa/)[![Portfolio](https://talhashahid.netlify.app/)]
 <br>
 <h2> 🔧 Technologies I enjoy working with</h2>
 
@@ -19,6 +19,8 @@ I define myself as curious, creative, and driven to create innovative solutions.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=47A248)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+
 <br>
 
 <h2>📈 GitHub Stats</h2>
