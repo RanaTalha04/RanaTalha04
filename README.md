@@ -10,10 +10,6 @@
   🧠 Skilled in <b>Python</b>, <b>SQL</b>, <b>Data Visualization</b>, <b>Data Analysis</b>, and <b>Machine Learning</b>
 </p>
 
-<p align="center">
-  I define myself as <b>curious</b>, <b>creative</b>, and <b>driven</b> to build impactful, data-driven solutions.
-</p>
-
 ---
 
 ## 🌐 Connect with Me
