@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  🎓 Final-year <b>Computer Science</b> student at <b>UET Lahore</b><br>
-  💡 Passionate about <b>Data Science</b> and <b>Artificial Intelligence</b><br>
-  🧠 Skilled in <b>Python</b>, <b>SQL</b>, <b>Data Visualization</b>, <b>Data Analysis</b>, and <b>Machine Learning</b>
+  Final-year <b>Computer Science</b> student at <b>UET Lahore</b><br>
+  Passionate about <b>Data Science</b> and <b>Artificial Intelligence</b><br>
+  Skilled in <b>Python</b>, <b>SQL</b>, <b>Data Visualization</b>, <b>Data Analysis</b>, and <b>Machine Learning</b>
 </p>
 
 ---
