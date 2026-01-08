@@ -1,6 +1,5 @@
 <h1 align="center">
-  <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br> -->
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="30" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br>
   Hi there, I'm <b>Talha </b>
 </h1>
 
