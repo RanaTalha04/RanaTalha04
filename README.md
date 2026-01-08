@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&count_private=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&layout=compact&count_private=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&layout=compact" height="160px" />
 </p>
 
 <p align="center">
