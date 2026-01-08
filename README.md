@@ -47,13 +47,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&layout=compact" height="160px" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RanaTalha04&theme=dark&hide_border=false" height="160px" />
 </p>
 
