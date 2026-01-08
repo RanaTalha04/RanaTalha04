@@ -49,9 +49,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&count_private=true&line_height=27&layout=compact&bg_color=30,e690c6,7063a5&title_color=fff&text_color=fff&hide=contribs" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&count_private=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTalha04&layout=compact&count_private=true" height="160px" />
 </p>
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RanaTalha04&theme=dark&hide_border=false" height="160px" />
 </p>
