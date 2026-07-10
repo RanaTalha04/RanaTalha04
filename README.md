@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Final-year <b>Computer Science</b> student at <b>UET Lahore</b><br>
+  <b>Computer Science</b> graduate from <b>UET Lahore</b><br>
   Passionate about <b>Data Science</b> and <b>Artificial Intelligence</b><br>
   Skilled in <b>Python</b>, <b>SQL</b>, <b>Data Visualization</b>, <b>Data Analysis</b>, and <b>Machine Learning</b>
 </p>
@@ -47,8 +47,9 @@
 ---
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaTalha04&show_icons=true&locale=en&layout=compact" alt="RanaTalha04" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaTalha04&show_icons=true&locale=en&layout=compact" alt="RanaTalha04" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RanaTalha04&show_icons=true&locale=en" alt="RanaTalha04" /></p>
-
+<p>
+  <img src="https://streak-stats.demolab.com?user=RanaTalha04" />
+</p>
 ---
