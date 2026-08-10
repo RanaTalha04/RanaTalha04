@@ -11,14 +11,14 @@
 
 ### 🎯 Interests
 
-Backend systems & architecture. Exploring **AI/ML** and **quant dev** on the side.
+**AI/ML**. Exploring **Backend development** on the side.
 
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/138F06/utkarsh-saxena271" />
+  <img width="90%" src="https://ghchart.rshah.org/138F06/RTalha04" />
 </p>
 
 ---
