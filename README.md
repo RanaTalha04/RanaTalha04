@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DBs-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
 ---
 
 ### 📊 Showcase
@@ -67,14 +68,3 @@
 
 ---
 
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://x.com/RTalha04"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <br/>
-  <a href="https://www.linkedin.com/in/muhammadtaalhaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <br/>
-  <a href="https://talhashahid.netlify.app//"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <br/>
-
-</p>
