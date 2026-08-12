@@ -11,7 +11,7 @@
 
 ### 🎯 Interests
 
-**AI/ML**. Exploring **Backend development** on the side.
+**AI/ML**. Exploring **Backend development** and **SQA** on the side.
 
 ---
 
