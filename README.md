@@ -54,6 +54,13 @@
   <img src="https://img.shields.io/badge/Vector_DBs-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+**AI / GenAI Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 ---
 
 ### 📊 Showcase
