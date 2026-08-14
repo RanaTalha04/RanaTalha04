@@ -9,13 +9,13 @@
 
 ---
 
-### 🎯 Interests
+### Interests
 
 **AI/ML**. Exploring **Backend development** and **SQA** on the side.
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="90%" src="https://ghchart.rshah.org/138F06/RanaTalha04" />
@@ -23,15 +23,15 @@
 
 ---
 
-### 🚧 What I'm Doing Right Now
+### What I'm Doing Right Now
 
-- 🔐 Working on Gen AI
-- 🐍 Going deep into Backend Development using Django
-- 📚 Starting DSA
+- Working on Gen AI
+- Going deep into Backend Development using Django and SQA
+- Starting DSA
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 Showcase
+### Showcase
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RanaTalha04&theme=react-dark&hide_border=true" />
