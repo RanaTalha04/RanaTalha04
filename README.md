@@ -11,7 +11,7 @@
 
 ### Interests
 
-**AI/ML**. Exploring **Backend development** and **SQA** on the side.
+**AI/ML**. Exploring **Backend development** on the side.
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### What I'm Doing Right Now
 
-- Working on Gen AI
-- Going deep into Backend Development using Django and SQA
+- Working on Gen AI and Computer Vision
+- Going deep into Backend Development using FastAPI
 - Starting DSA
 
 ---
@@ -43,7 +43,6 @@
 
 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
