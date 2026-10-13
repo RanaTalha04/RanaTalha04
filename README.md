@@ -27,7 +27,7 @@
 
 - Working on Gen AI and Computer Vision
 - Going deep into Backend Development using FastAPI
-- Starting DSA
+- Doing DSA
 
 ---
 
