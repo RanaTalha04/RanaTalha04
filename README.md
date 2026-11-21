@@ -4,19 +4,19 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ranatalha04&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132384427%3Fu%3D84cee5ce2b2aa1623a6660a4439da7f06a6d2c01%26v%3D4" alt="ranatalha04 hero visual" />
 </p>
 
-**Muhammad Talha** · Frontend or full-stack engineer
+**Muhammad Talha** · ai engineer
 
 ## Currently learning
 
-> AI/ML | Data Scientist | Backend Developer | Manual QA
+> AI/ML | Data Scientist | Backend Developer
 
 **Learning next**
 
-- Jupyter Notebook
-- TypeScript
-- Python
+- Gen ai
+- MLOPs
+- LLMs
 
-📍 Based in **Lahore** · 🌐 [Website](https://talhashahid.netlify.app/) · 👥 **21** followers · **21** following
+📍 Based in **Lahore** · 🌐 [Website](https://talhashahid.netlify.app/) 
 
 ## Tools I’m practicing
 
